@@ -9,12 +9,9 @@ Learning PyCharm
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+   :numbered:
 
+   setup
+   introduction
+   usage
 
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
